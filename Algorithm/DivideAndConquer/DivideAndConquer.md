@@ -4,7 +4,7 @@
 
 - 보통 재귀를 통해 자연스럽게 구현한다.
 
-- <img src="img/DivideAndConquer.webp">
+- <img src="img/DivideAndConquer.png">
 
 - 알고리즘의 진행 단계
 
@@ -49,9 +49,3 @@
     - [Z (백준 1074)](https://www.acmicpc.net/problem/1074)
 
     - [곱셈 (백준 1629)](https://www.acmicpc.net/problem/1629)
-
-- 분할 정복 VS DP (다이나믹 프로그래밍)
-
-    - Top Down 방식
-
-    - Bottom Up 방식

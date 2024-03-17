@@ -2,10 +2,12 @@
 
 ## 👨‍💻 스터디원
 
-- [박준영](https://github.com/JYPJUN)
-- [김연동](https://github.com/kinterlocked)
-- [서진경](https://github.com/JinKyeong-Seo)
-- [홍창기](https://github.com/infikei)
+| 이름 | GitHub | Baekjoon | solved.ac |
+| ---- | ---- | ---- | ---- |
+| 박준영 | [@JYPJUN](https://github.com/JYPJUN) | [@psw9502](https://www.acmicpc.net/user/psw9502) | [@psw9502](https://solved.ac/profile/psw9502) |
+| 김연동 | [@kinterlocked](https://github.com/kinterlocked) | [@dusehd0525](https://www.acmicpc.net/user/dusehd0525) | [@dusehd0525](https://solved.ac/profile/dusehd0525) |
+| 서진경 | [@JinKyeong-Seo](https://github.com/JinKyeong-Seo) | [@sjk2700](https://www.acmicpc.net/user/sjk2700) | [@sjk2700](https://solved.ac/profile/sjk2700) |
+| 홍창기 | [@infikei](https://github.com/infikei) | [@infikei](https://www.acmicpc.net/user/infikei) | [@infikei](https://solved.ac/profile/infikei) |
 
 ## 📚 스터디 주제
 

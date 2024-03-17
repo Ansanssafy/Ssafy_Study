@@ -18,7 +18,7 @@
 
     - 삽입과 삭제가 같은 쪽에서 이루어진다. 즉, 데이터가 들어오는 쪽과 나가는 쪽이 같다.
 
-    <img src="./img/stack_img.png" />
+    ![stack](./img/stack_img.png)
 
 ## 2. 실생활에서 찾아볼 수 있는 스택의 예시
 
@@ -32,11 +32,11 @@
 
 - 괄호 검사
 
-    <img src="./img/stack_parentheses.png" />
+    ![stack parentheses](./img/stack_parentheses.png)
 
 - 함수 호출 스택
 
-    <img src="./img/stack_function_call.png" />
+    ![stack function call](./img/stack_function_call.png)
 
 - 웹 브라우저에서 뒤로가기 기록 및 앞으로가기 기록
 

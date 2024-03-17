@@ -6,7 +6,7 @@
 
 - 따라서 정렬된 원소들은 앞쪽에 차례로 쌓이게 된다.
 
-<img src="img/SelectionSort.jpg">
+![Selection Sort](./img/SelectionSort.jpg)
 
 ## 시간복잡도 : O(n^2)
 

@@ -4,7 +4,7 @@
 
 - 보통 재귀를 통해 자연스럽게 구현한다.
 
-- <img src="img/DivideAndConquer.png">
+- ![Divide And Conquer](./img/DivideAndConquer.png)
 
 - 알고리즘의 진행 단계
 

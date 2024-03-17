@@ -1,42 +1,49 @@
 ## AVL 트리(Adelson-Velsky and Landis tree)란?
-![DP](./img/2.png)
+
+![AVL Tree](./img/2.png)
 - 스스로 균형을 잡는 이진 탐색트리
 
 ### 기존 이진트리의 문제
-![DP](./img/1.png) 
+
+![Problem of Binary Tree](./img/1.png) 
 
 - 이러한 모양의 불균형 트리를 만들어지는 문제가 발생할 수 있다.\
 - 각 노드마다 균형도를 추가하여 트리의 높이를 조절해 문제를 해결할 수 있다.
 
 ### AVL 특징
-- 이진 트리의 속성을 가진다.\
-- 높이 차이가 1보다 커지면 회전( rotation )을 통해 균형을 잡아 차이를 줄인다.\
+
+- 이진 트리의 속성을 가진다.
+- 높이 차이가 1보다 커지면 회전( rotation )을 통해 균형을 잡아 차이를 줄인다.
 - 왼쪽, 오른쪽 서브 트리의 높이 차이가 -1, 0, 1
 - 각 노드의 추가적인 높이 정보를 저장해야하기 때문에 더 많은 저장공간이 필요하다.
 - AVL 트리는 높이를 logN으로 유지하기 때문에 삽입, 검색, 삭제의 시간 복잡도는 O(logN)이다.
 
 ### 균형도를 구하는 방법
-![DP](./img/3.png)
-![DP](./img/4.png)
+
+![img 3](./img/3.png)
+![img 4](./img/4.png)
 - 부모 노드의 높이 =  좌측 우측 노드 높이 중 큰 숫자의 1을 더한 것이 부모 노드의 높이 
 - 높이를 구하면 균형도를 알 수 있다
 - 균형도 = 좌측 노드 높이 - 우측 노드 높이
 - 균형도가 -1, 0, 1 이 아닐 시 불균형 트리
 - 균형도가 양수이면 좌측편향 트리, 음수이면 우측 편향 트리
 
-![DP](./img/5.png)
-![DP](./img/6.png)
+![img 5](./img/5.png)
+![img 6](./img/6.png)
+
 ### 불균형 트리의 4가지 문제
+
 - LL 문제 : 부모 노드 균형도가 2이고 자식 노드의 균형도가 1인 경우
 - RR 문제 : 부모 노드 균형도가 -2이고 자식 노드의 균형도가 -1인 경우
 - LR 문제 : 부모 노드 균형도가 2이고 자식 노드의 균형도가 -1인 경우
 - RL 문제 : 부모 노드 균형도가 2이고 자식노드의 규형도가 1인 경우
-  
-![DP](./img/7.png)
-![DP](./img/8.png)
+
+![img 7](./img/7.png)
+![img 8](./img/8.png)
 
 
 ### AVL트리 구현
+
 ```java
 class Node {
     int key, height;
@@ -162,10 +169,12 @@ public class AVLTree {
     }
 }
 ```
+
 위와 같은 코드로 AVL트리로 구할 수 있다.
 
 
-### 구현된 자바 클래스 
+### 구현된 자바 클래스
+
 ```java
 import java.util.TreeMap;
 import java.util.TreeSet;
@@ -192,12 +201,14 @@ public class AVLTreeExample {
 ```
 
 ### 파이썬 사용예시
+
 ```python
 # SortedDict 사용 예시
 sorted_dict = SortedDict({3: 'Three', 1: 'One', 2: 'Two'})
 print("SortedDict:", sorted_dict)
 ```
-AVL 트리 과정
-아래 링크에서  AVL트리로 변환되는 과정이 확인이 가능하다.
+
+AVL 트리 과정 <br/>
+아래 링크에서 AVL트리로 변환되는 과정이 확인이 가능하다.
 
 https://www.cs.usfca.edu/~galles/visualization/AVLtree.html

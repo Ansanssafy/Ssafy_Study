@@ -1,5 +1,7 @@
-# BinarySearch
-## BinarySearch란
+# Binary Search
+
+## Binary Search란
+
 - 정렬된 배열에서 사용하기 적합한 탐색 방법
 - 이진 탐색이라고도 한다
 - 배열의 중앙값을 조사하여 찾고자 하는 항목이 왼쪽 or 오른쪽에 있는지 확인하는 방식
@@ -23,11 +25,13 @@
 ### low가 high가 될 때까지 반복 => 마지막 경우
 
 ## LinearSearch vs BinarySearch
-![DP](./img/1.png)
+
+![Linear Search vs Binary Search](./img/1.png)
 - 이 경우를 선형 탐색(linear Search) 이라 한다
 - 경우에 따라 이진 탐색은 선형 탐색보다 느릴 수 있다.
 
 ## BinarySearch 코드
+
 ```java
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -73,10 +77,13 @@ public class main {
 	}
 }
 ```
+
 ### 이진 탐색 장점
+
 - 전부 찾는 것 보다 값을 찾는 속도가 빠르다.
- 
+
 ### 이진 탐색 단점
+
 - 정렬되어 있을 때만 사용이 가능하다.
 - 중복된 값이 있을 때 무엇을 반환해야할지 추가적인 작업이 필요하다.
 - 경우에 따라서 선형 탐색보다 더 많은 탐색을 할 수 있다.

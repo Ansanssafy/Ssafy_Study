@@ -6,7 +6,7 @@
 
 - 따라서 정렬된 원소들은 뒤쪽에 차례로 쌓이게 된다.
 
-<img src="img/BubbleSort.jpg">
+![Bubble Sort](./img/BubbleSort.jpg)
 
 ## 시간복잡도 : O(n^2)
 

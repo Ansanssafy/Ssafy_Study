@@ -18,10 +18,10 @@
 
 ## 힙의 삽입 연산 과정
 
-<img src="./img/heap_push.png" />
+![heap push](./img/heap_push.png)
 
 ## 힙의 삭제 연산 과정
 
-<img src="./img/heap_pop.png" />
+![heap pop](./img/heap_pop.png)
 
-<img src="./img/heap_pop2.png" />
+![heap pop 2](./img/heap_pop2.png)

@@ -11,13 +11,13 @@
 - 애트리뷰트 : 열
 - 차수 : 애트리뷰트의 개수
 
-![relation](./img/relation.png)
+![relation](./img/relations.png)
 
 ---
 
 ## 키
 
-![key](./img/key.png)
+![key](./img/keyType.png)
 
 - 특정 튜플을 식별할 때 사용하는 하나 이상의 속성 모임
 - 릴레이션은 중복된 튜플을 허용하지 않음
@@ -29,7 +29,7 @@
 
 튜플을 고유하게 식별할 수 있는 속성(들)
 
-![customer](./img/customer.png)
+![customer](./img/customerTable.png)
 
 - 위와 같은 릴레이션에서 고객번호와 주민번호를 포함한 모든 속성의 집합이 슈퍼키임
 - (주민번호), (고객번호), (주민번호, 이름), (주민번호, 이름, 주소), (고객번호, 이름, 주민번호, 주소 핸드폰) 등등
@@ -38,7 +38,7 @@
 
 튜플을 유일하게 식별할 수 있는 **최소한**의 속성 집합
 
-![order](./img/order.png)
+![order](./img/orderTable.png)
 
 고객 번호 : 한명의 고객이 여러 권의 도서를 구입할 수 있음
 
@@ -72,13 +72,13 @@
 - 기본키가 여러 개의 속성으로 구성되어 복잡함
 - 마땅한 기본키가 없음
 
-![surrogate](./img/surrogate.png)
+![surrogate](./img/surrogateKey.png)
 
 5. 대체키(alternate key)
 
 기본키로 선정되지 않은 후보키
 
-![customer](./img/customer.png)
+![customer](./img/customerTable.png)
 
 - 위와 같은 릴레이션에서 고객번호를 기본키로 선정하면 주민번호가 대체키가 됨
 
@@ -91,7 +91,7 @@
 - 자기 자신을 참조하는 외래키도 가능
 - 기본키의 구성요소가 될 수 있음
 
-![foreign](./img/foreign.png)
+![foreign](./img/foreignTable.png)
 
 
 ## DB 정규화란?

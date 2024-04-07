@@ -18,7 +18,7 @@
 | Week 6 (24.03.24.) | 데이터베이스 | SQL 명령어 (by 김연동) <br/> JOIN (by 박준영) <br/> JOIN (by 서진경) <br/> 트랜잭션 (by 홍창기) <br/> |
 | Week 7 (24.03.31.) | 운영체제 | 운영체제란? (by 김연동) <br/> 프로세스 VS 쓰레드 (by 홍창기) <br/> 프로세스 주소 공간 (by 박준영) <br/> 인터럽트(Interrupt) (by 서진경) <br/> |
 | Week 8 (24.04.07.) | 알고리즘 스터디 <br/> (SW 역량테스트 A형 대비) | [무선 충전 (SWEA)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo) <br/> [벽돌 깨기 (SWEA)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo) <br/> [요리사 (SWEA)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH) <br/> |
-| Week 9 () | | <br/> <br/> |
+| Week 9 (24.04.14.) | 운영체제 | 시스템 콜 (System Call) (by 박준영) <br/> 시스템 콜 (System Call) (by 홍창기) <br/> PCB와 Context Switching (by 김연동) <br/> PCB와 Context Switching (by 서진경) <br/> |
 | Week 10 () | | <br/> <br/> |
 | Week 11 () | | <br/> <br/> |
 | Week 12 () | | <br/> <br/> |

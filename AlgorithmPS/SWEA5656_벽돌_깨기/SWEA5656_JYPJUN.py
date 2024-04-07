@@ -70,28 +70,3 @@ for tc in range(1, T+1):
     break_bricks(0, arr) # 벽돌 부수기 시작
 
     print(f'#{tc}', min_cnt)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

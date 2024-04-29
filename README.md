@@ -20,7 +20,7 @@
 | Week 8 <br/> (24.04.07.) | 알고리즘 스터디 <br/> (SW 역량테스트 A형 대비) | [무선 충전 (SWEA)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo) <br/> [벽돌 깨기 (SWEA)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo) <br/> [요리사 (SWEA)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH) <br/> |
 | Week 9 <br/> (24.04.14.) | 운영체제 | 시스템 콜 (System Call) (by 박준영) <br/> 시스템 콜 (System Call) (by 홍창기) <br/> PCB와 Context Switching (by 김연동) <br/> PCB와 Context Switching (by 서진경) <br/> |
 | Week 10 <br/> (24.04.21.) | 운영체제 | 데드락 (Deadlock, 교착상태) (by 서진경) <br/> 세그멘테이션 (Segmentation) (by 박준영) <br/> 페이징 (Paging) (by 김연동) <br/> 가상 메모리 (Virtual Memory) (by 홍창기) <br/> |
-| Week 11 <br/> (24.04.28.) | 운영체제 (자율주제) | 정규화 (by 박준영) <br/> ? (by 김연동) <br/> 프로세스 VS 쓰레드 (by 서진경) <br/> CPU 스케줄링 (by 홍창기) <br/> |
+| Week 11 <br/> (24.04.28.) | 운영체제 (자율주제) | 정규화 (by 박준영) <br/> 세그멘테이션 (Segmentation) (by 김연동) <br/> 프로세스 VS 쓰레드 (by 서진경) <br/> CPU 스케줄링 (by 홍창기) <br/> |
 | Week 12 <br/> (24.05.05.) | 운영체제 | CPU 스케줄링 (by 박준영) <br/> 동기화 & 세마포어 & 뮤텍스 (by 홍창기) <br/> Smaller Table (by 김연동) <br/> 페이지 교체 알고리즘 (by 서진경) <br/> |
 | Week 13 () | | <br/> <br/> |
 | Week 14 () | | <br/> <br/> |

@@ -86,7 +86,7 @@
 
 - **Algorithm 1**
 
-    - **현재 critical section에 진입할 프로세스를 나타내는 하나의 변수** `turn` 을 두고, 일치하는 프로세스만 critical section에 진입하도록 하는 방식이다.
+    - **현재 critical section에 진입할 프로세스를 나타내는 하나의 변수 `turn`** 을 두고, 일치하는 프로세스만 critical section에 진입하도록 하는 방식이다.
 
     ```cpp
     int turn; // turn == i이면 P_i는 critical section에 들어갈 수 있다.
@@ -106,7 +106,7 @@
 
 - **Algorithm 2**
 
-    - **특정 프로세스가 critical section에 진입할 준비가 되었다는 것을 나타내는 변수** `flag[]` 를 두고, 다른 프로세스가 critical section에 진입하려고 한다면 현재 프로세스는 기다리는 방식이다.
+    - **특정 프로세스가 critical section에 진입할 준비가 되었다는 것을 나타내는 변수 `flag[]`** 를 두고, 다른 프로세스가 critical section에 진입하려고 한다면 현재 프로세스는 기다리는 방식이다.
 
     ```cpp
     bool flag[2]; // flag[i] == true이면 P_i는 critical section에 들어갈 준비가 되었다.
@@ -126,7 +126,7 @@
     - 두 프로세스가 각각 flag[i] = true, flag[j] = true를 수행하고 나면 두 프로세스 모두 critical section에 진입하지 못하고 무한히 기다리는 상황이 발생하게 되기 때문이다.
 
 - **Algorithm 3 = Peterson's Algorithm**
-    - Peterson's Algorithm은 `**turn` 변수와 `flag` 변수를 동시에 사용**하는, 위의 알고리즘 1과 2를 합쳐놓은 방식이다.
+    - Peterson's Algorithm은 **`turn` 변수와 `flag` 변수를 동시에 사용**하는, 위의 알고리즘 1과 2를 합쳐놓은 방식이다.
 
     ```cpp
     int turn;
@@ -190,7 +190,7 @@ do {
 
 - 사용 가능한 자원의 개수를 의미하는 정수형 변수로 나타내며, 주로 S라고 한다.
 
-- 세마포어 변수는 **오직 두 개의 atomic한 연산(P 연산 및 V 연산)**을 통해 접근할 수 있다. 즉, 한 프로세스가 세마포어 변수를 수정하는 동안 다른 프로세스는 같은 세마포어 변수를 수정할 수 없다.
+- 세마포어 변수는 **오직 두 개의 atomic한 연산**(P 연산 및 V 연산)을 통해 접근할 수 있다. 즉, 한 프로세스가 세마포어 변수를 수정하는 동안 다른 프로세스는 같은 세마포어 변수를 수정할 수 없다.
 
 - 우선 P 연산과 V 연산을 아래와 같이 정의한다. **P 연산은 공유자원을 획득하는 연산이고, V 연산은 공유자원을 반납하는 연산이다.**
 

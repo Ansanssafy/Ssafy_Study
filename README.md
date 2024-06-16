@@ -26,7 +26,7 @@
 | Week 14 <br/> (24.05.26. 일)    | 관통 PJT 발표    | |
 | Week 15 <br/> (24.06.09. 일)    | 네트워크 2주차    | [대칭키 & 공개키 (by 박준영)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Network/SymmetricKey_AsymmetricKey/SymmetricKey_AsymmetricKey.ipynb)    <br/> [HTTP & HTTPS (by 김연동)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Network/HTTP%20%26%20HTTPS/HTTP%20%26%20HTTPS.md)    <br/> [로드 밸런싱 (Load Balancing) (by 서진경)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Network/LoadBalancing/LoadBalancing.md)    <br/> [Blocking & Non Blocking I/O (by 홍창기)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Network/Blocking%20VS%20Non-Blocking%20IO/Blocking%20VS%20Non-Blocking%20IO.md)   |
 | Week 16 <br/> (24.06.16. 일)    | 네트워크 3주차    | CORS란 (by 홍창기)    <br/> GET 메서드와 POST 메서드 (by 서진경)    <br/> 쿠키(Cookie)와 세션(Session) (by 박준영)    <br/> DNS (by 김연동)    |
-| Week 17 <br/> ()    | 주제    | 세부 주제    |
+| Week 17 <br/> (24.06.23. 일)    | 네트워크 4주차    | Docker 네트워크 (by 박준영)    <br/> Kubernetes 네트워크 (by 김연동)    <br/> 서브넷 마스크 계산 (by 서진경) <br/> VLSM 활용 (by 홍창기)    |
 | Week 18 <br/> ()    | 주제    | 세부 주제    |
 | Week 19 <br/> ()    | 주제    | 세부 주제    |
 | Week 20 <br/> ()    | 주제    | 세부 주제    |

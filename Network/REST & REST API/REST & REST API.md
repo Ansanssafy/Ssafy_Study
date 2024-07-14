@@ -1,7 +1,7 @@
 # REST & REST API
 
 ## REST란?
-![DP](./img/1.png)
+![REST API 1](./img/rest-api-1.png)
 - Representational State Transfer
 - 월드 와이드 웹(www)과 같은 분산 하이퍼미디어 시스템을 위한 소프트웨어 아키텍처의 한 형식
 - REST는 네트워크 상에서 Client와 Server 사이의 통신 방식 중 하나
@@ -35,7 +35,7 @@
 
 
 # REST API
-![DP](./img/2.png)
+![REST API 2](./img/rest-api-2.png)
 ## REST API란
 - REST 기반으로 서비스 API를 구현한 것
 - 최근 OpenAPI, 마이크로 서비스 등을 제공하는 업체 대부분은 REST API를 제공
@@ -67,7 +67,7 @@
 > 좋아요 : http://yeondong.com/post/1  
 
 ## RESTful이란?
-![DP](./img/3.png)
+![REST API 3](./img/rest-api-3.png)
 - RESTful은 일반적으로 REST라는 아키텍처를 구현하는 웹 서비스를 나타내기 위해 사용되는 용어
 - REST 원리를 따르는 시스템은 RESTful이란 용어로 지칭
 

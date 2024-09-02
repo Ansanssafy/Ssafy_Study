@@ -44,10 +44,6 @@
 
 ## 코드
 ```java
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
-
 public class Main {
     static int[] seg;
     static int n;
@@ -55,18 +51,29 @@ public class Main {
 
         int[] arr = {5, 8, 4, 3, 7, 2, 1, 6};
         n = arr.length;
+        int height = n;
 
         // k 구하기
-        int k = 1;
-        while ((2 * k) * 2 <= n) {
+        int k = 0;
+        while (height != 0) {
+            height /= 2;
             k++;
         }
+        k--;
+        System.out.println("지수: " + k);
+        
         // 세그 트리 만들기
         seg = new int[(int) Math.pow(2, k) * 2];
 
         // 리프 노드 채우기
-        for (int i = 1; i <= n; i++) {
-            seg[n + i - 1] = arr[i - 1];
+        int left = (int)Math.pow(2,k);
+        
+        
+        System.out.println("리프 노드 시작위치: " + left);
+        System.out.println("세그 트리 전체크기: " + seg.length);
+
+        for (int i = left; i < seg.length; i++) {
+            seg[i] = arr[i - n];
         }
 
         // 부모 노드 채우기
@@ -142,7 +149,6 @@ public class Main {
         System.out.println();
     }
 }
-
 ```
 #### 코테 구분
 - 단순 구간합 구하기는 그냥 합배열 쓸 것

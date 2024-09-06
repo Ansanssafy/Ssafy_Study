@@ -47,59 +47,51 @@
 public class Main {
     static int[] seg;
     static int n;
+
     public static void main(String[] args) throws Exception {
 
-        int[] arr = {5, 8, 4, 3, 7, 2, 1, 6};
+        int[] arr = {5, 8, 4, 3, 7, 2, 1, 6, 9};
         n = arr.length;
-        int height = n;
-
-        // k 구하기
-        int k = 0;
-        while (height != 0) {
-            height /= 2;
-            k++;
-        }
-        k--;
+        int k = (int) Math.ceil(Math.log(n) / Math.log(2));
         System.out.println("지수: " + k);
-        
+
         // 세그 트리 만들기
         seg = new int[(int) Math.pow(2, k) * 2];
 
         // 리프 노드 채우기
-        int left = (int)Math.pow(2,k);
-        
-        
+        int left = (int) Math.pow(2, k);
+
         System.out.println("리프 노드 시작위치: " + left);
         System.out.println("세그 트리 전체크기: " + seg.length);
 
-        for (int i = left; i < seg.length; i++) {
-            seg[i] = arr[i - n];
+        for (int i = left; i < left + n; i++) { // i - left를 사용해서 올바르게 채움
+            seg[i] = arr[i - left];  // i - left로 인덱스 수정
         }
 
         // 부모 노드 채우기
         // n부터 리프노드 시작이니까 합은 n-1부터
-        for (int i = n - 1; i > 0; i--) {
+        for (int i = left - 1; i > 0; i--) {
             seg[i] = seg[2 * i] + seg[2 * i + 1];
         }
+
         // 세그먼트 확인
         checkseg();
         //------------------------여기까지 트리 초기화 -----------------------------------
 
         // 구간 합 구하기
         int start = 2;  // 시작
-        int end = 6; // 끝
-        System.out.println(start + "에서 " + end + "의 구간 합: " +  query(start, end));
+        int end = 6;    // 끝
+        System.out.println(start + "에서 " + end + "의 구간 합: " + query(start, end));
 
         // 업데이트
-        int updateIndex = 2; // 1기반 인덱스
-        int newValue = 10; // 8 -> 10으로 변경
+        int updateIndex = 2;  // 1기반 인덱스
+        int newValue = 10;    // 8 -> 10으로 변경
         update(updateIndex, newValue);
 
         // 세그먼트 확인
         checkseg();
 
         // 업데이트 후 구간 합 구하기
-        query(start, end);
         System.out.println("업데이트 후 " + start + "에서 " + end + "구간 합: " + query(start, end));
     }
 
@@ -109,7 +101,7 @@ public class Main {
 
         // 1기반 인덱스에서 트리 인덱스로 변환
         start += n - 1; // 2넘어오고 9
-        end += n - 1; // 6 넘어와서 13
+        end += n - 1;   // 6 넘어와서 13
 
         while (start <= end) { // 리프 노드 뿐 아니라 부모 노드 위치도 확인
             if (start % 2 == 1) {

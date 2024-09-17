@@ -38,9 +38,9 @@
 - 만약, 음수 간선 순환이 발생하는 지 체크하고 3번 과정을 한 번 더 수행
   - 이때 최단 거리 테이블이 갱신된다면 음수 간선 순환이 존재함을 의미
 
-![alt text](/img//img2.PNG)
+![alt text](./img/img2.PNG)
 
-![alt text](/img//img3.PNG)
+![alt text](./img/img3.PNG)
 
 ---
 

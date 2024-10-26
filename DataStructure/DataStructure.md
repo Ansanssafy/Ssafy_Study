@@ -1,0 +1,17 @@
+# 자료구조 (Data Structure)
+
+- [스택](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/Stack/stack.md) (by 홍창기)
+- [큐](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/Queue/queue.md) (by 홍창기)
+- [덱 (Deque)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/Deque/Deque.md) (by 홍창기)
+- [유니온 파인드 (Union Find)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/Union_Find/Union_Find.md) (by 박준영) ([예시 코드](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/UnionFind-infikei/UnionFindExampleCode.java) by 홍창기)
+
+- 트리 (Tree)
+    - [이진트리 & 이진탐색트리 & 힙](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/BST-And-Heap-JYPJUN/binary_tree.ipynb) (by 박준영)
+    - [이진트리 & 이진탐색트리 & 힙](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/BST-And-Heap-JinKyeong-Seo/tree_heap.md) (by 서진경)
+    - [이진트리](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/BST-And-Heap-infikei/BinaryTree.md) & [이진탐색트리](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/BST-And-Heap-infikei/BinarySearchTree.md) & [힙](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/BST-And-Heap-infikei/Heap.md) (by 홍창기)
+    - [이진트리 & 이진탐색트리](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/BST-And-Heap-kinterlocked/BST-And-Heap.md) (by 김연동)
+    - [세그먼트 트리 (Segment Tree)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/Segment%20Tree/Segment%20Tree.md) (by 김연동) ([예시 코드](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/SegmentTree-Infikei/segtree_example_code.cpp) by 홍창기)
+    - [레드-블랙 트리 (Red-Black Tree)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/RedBlackTree/RedBlackTree.md) (by 홍창기)
+    - [B 트리 & B+ 트리](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/B-Tree_B%2BTree/B-Tree_B%2BTree.md) (by 서진경)
+    - [AVL 트리](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/AVLTree/AVLTree.md) (by 김연동)
+    - 트라이 (Trie) (by 김연동)

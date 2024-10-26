@@ -10,11 +10,11 @@
 
 - [자료구조 (Data Structure)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/DataStructure.md)
 - [알고리즘 (Algorithm)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/Algorithm.md)
-- 네트워크 (Network)
-- 운영체제 (Operating System)
-- 데이터베이스 (Database)
-- 디자인 패턴 (Design Pattern)
-- 웹 (Web)
+- 네트워크 (Network) (TODO : 링크 추가 예정)
+- 운영체제 (Operating System) (TODO : 링크 추가 예정)
+- 데이터베이스 (Database) (TODO : 링크 추가 예정)
+- 디자인 패턴 (Design Pattern) (TODO : 링크 추가 예정)
+- 웹 (Web) (TODO : 링크 추가 예정)
 
 ## 📚 스터디 주제
 

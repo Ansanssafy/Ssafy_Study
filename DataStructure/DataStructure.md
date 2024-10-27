@@ -1,7 +1,7 @@
 # 자료구조 (Data Structure)
 
-- [스택](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/Stack/stack.md) (by 홍창기)
-- [큐](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/Queue/queue.md) (by 홍창기)
+- [스택 (Stack)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/Stack/stack.md) (by 홍창기)
+- [큐 (Queue)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/Queue/queue.md) (by 홍창기)
 - [덱 (Deque)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/Deque/Deque.md) (by 홍창기)
 - [유니온 파인드 (Union Find)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/Union_Find/Union_Find.md) (by 박준영) ([예시 코드](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/UnionFind-infikei/UnionFindExampleCode.java) by 홍창기)
 

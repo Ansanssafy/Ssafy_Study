@@ -1,15 +1,15 @@
 # 알고리즘 (Algorithm)
 
-- [완전 탐색](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/BackTracking/BackTracking.md) (by 김연동)
-- [백 트래킹](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/BackTracking/BackTracking.md) (by 김연동)
+- [완전 탐색 (Brute Force)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/BackTracking/BackTracking.md) (by 김연동)
+- [백 트래킹 (Backtracking)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/BackTracking/BackTracking.md) (by 김연동)
 - [너비 우선 탐색 (BFS)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/BFS_DFS/BFS_DFS.ipynb) (by 박준영)
 - [깊이 우선 탐색 (DFS)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/BFS_DFS/BFS_DFS.ipynb) (by 박준영)
-- [그리디 알고리즘](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/Greedy/Greedy.md) (by 서진경)
+- [그리디 알고리즘 (Greedy)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/Greedy/Greedy.md) (by 서진경)
 - [다이나믹 프로그래밍 (DP)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/DP/DynamicProgramming.md) (by 서진경)
-- [투 포인터](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/TwoPointer/Two_pointers.ipynb) (by 박준영)
-- [슬라이딩 윈도우](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/SlidingWindow/SlidingWindow.md) ([코드](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/SlidingWindow/example.java) & [백준 21921번 코드](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/SlidingWindow/boj_21921_%EB%B8%94%EB%A1%9C%EA%B7%B8.java)) (by 서진경)
-- [이분 탐색](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/BinarySearch/BinarySearch.md) (by 김연동)
-- [분할 정복](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/DivideAndConquer/DivideAndConquer.md) ([코드](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/DivideAndConquer/DivideAndConquerSample.java)) (by 홍창기)
+- [투 포인터 (Two Pointer)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/TwoPointer/Two_pointers.ipynb) (by 박준영)
+- [슬라이딩 윈도우 (Sliding Window)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/SlidingWindow/SlidingWindow.md) ([코드](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/SlidingWindow/example.java) & [백준 21921번 코드](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/SlidingWindow/boj_21921_%EB%B8%94%EB%A1%9C%EA%B7%B8.java)) (by 서진경)
+- [이분 탐색 (Binary Search)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/BinarySearch/BinarySearch.md) (by 김연동)
+- [분할 정복 (Divide and Conquer)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/DivideAndConquer/DivideAndConquer.md) ([코드](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/DivideAndConquer/DivideAndConquerSample.java)) (by 홍창기)
 
 - 정렬
     - [버블 정렬 (Bubble Sort)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/BubbleSort/BubbleSort.md) ([코드](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/BubbleSort/BubbleSortSample.java)) (by 홍창기)

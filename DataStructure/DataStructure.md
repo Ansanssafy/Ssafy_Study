@@ -14,4 +14,4 @@
     - [레드-블랙 트리 (Red-Black Tree)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/RedBlackTree/RedBlackTree.md) (by 홍창기)
     - [B 트리 & B+ 트리](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/B-Tree_B%2BTree/B-Tree_B%2BTree.md) (by 서진경)
     - [AVL 트리](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/AVLTree/AVLTree.md) (by 김연동)
-    - 트라이 (Trie) (by 김연동)
+    - [트라이 (Trie)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/Trie/Trie.md) (by 김연동)

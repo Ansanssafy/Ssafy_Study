@@ -48,8 +48,8 @@
 | Week 26 <br/> (24.09.14. 토)    | 알고리즘 및 자료구조 시즌2 2주차 <br/> (최단 거리, 위상 정렬)    | [다익스트라 알고리즘 (Dijkstra Algorithm)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/Dijkstra/Dijkstra.md) (by 홍창기)    <br/> [벨만-포드 알고리즘 (Bellman-Ford Algorithm)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/Bellman_Ford/Bellman_Ford.md) (by 박준영)    <br/> [플로이드-워셜 알고리즘 (Floyd-Warshall Algorithm)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/Floyd-Warshall/Floyd-Warshall.md) (by 서진경)    <br/> [위상 정렬 (Topological Sort)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/Topological%20Sort/Topological%20Sort.md) (by 김연동)    |
 | Week 27 <br/> (24.10.13. 일)    | SSAFY 특화 PJT 소개    | |
 | Week 28 <br/> (24.10.20. 일)    | 알고리즘 및 자료구조 시즌2 3주차 <br/> (MST, 자료구조)    | [프림 알고리즘 (Prim Algorithm)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/Prim/Prim%20Algorithm.md) (by 박준영)    <br/> [크루스칼 알고리즘 (Kruskal Algorithm)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Algorithm/Kruskal/Kruskal.md) (by 서진경)    <br/> [트라이 (Trie)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/Trie/Trie.md) (by 김연동)    <br/> [덱 (Deque)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/DataStructure/Deque/Deque.md) (by 홍창기)    |
-| Week 29 <br/> (24.11.03. 일)    | 웹 1주차    | 서버리스 아키텍처 (by 김연동)    <br/> 마이크로서비스 아키텍처 (MSA) (by 홍창기)    <br/> JWT (JSON Web Token) (by 서진경)    <br/> REST API (by 박준영)    |
-| Week 30 <br/> ()    | 주제    | 세부 주제    |
+| Week 29 <br/> (24.11.03. 일)    | 웹 1주차    | [서버리스 아키텍처](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Web/Serverless/Serverless.md) (by 김연동)    <br/> [마이크로서비스 아키텍처 (MSA)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Web/MSA/MSA.md) (by 홍창기)    <br/> [JWT (JSON Web Token)](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Web/JWT/JWT.md) (by 서진경)    <br/> [REST API](https://github.com/Ansanssafy/Ssafy_Study/blob/main/Web/RESTAPI/RESTAPI.md) (by 박준영)    |
+| Week 30 <br/> (24.11.24. 일)    | SSAFY 자율 PJT 소개    | |
 | Week 31 <br/> ()    | 주제    | 세부 주제    |
 | Week 32 <br/> ()    | 주제    | 세부 주제    |
 | Week 33 <br/> ()    | 주제    | 세부 주제    |
